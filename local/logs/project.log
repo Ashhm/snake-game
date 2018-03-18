@@ -1,0 +1,54 @@
+2018-03-18T18:14:58.267Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-18T18:14:58.280Z - normal: checking language setting...
+2018-03-18T18:14:58.281Z - normal: Language: en
+2018-03-18T18:15:03.265Z - success: protocol editor-framework registered
+2018-03-18T18:15:03.266Z - success: protocol app registered
+2018-03-18T18:15:03.266Z - success: protocol theme registered
+2018-03-18T18:15:03.266Z - success: protocol packages registered
+2018-03-18T18:15:03.266Z - success: protocol unpack registerred
+2018-03-18T18:15:03.266Z - success: protocol disable-commonjs registerred
+2018-03-18T18:15:04.969Z - normal: connected!
+2018-03-18T18:15:04.979Z - normal: Check project D:\GameDevelopment\Snake
+2018-03-18T18:15:04.985Z - normal: Initializing Cocos2d
+2018-03-18T18:15:06.911Z - normal: Initializing Asset Database
+2018-03-18T18:15:06.978Z - success: protocol uuid registerred
+2018-03-18T18:15:06.979Z - success: protocol db registerred
+2018-03-18T18:15:06.979Z - success: protocol thumbnail registerred
+2018-03-18T18:15:06.979Z - normal: Loading editor/builtin packages
+2018-03-18T18:15:07.031Z - success: anysdk loaded
+2018-03-18T18:15:07.249Z - success: assets loaded
+2018-03-18T18:15:07.252Z - success: builder loaded
+2018-03-18T18:15:07.260Z - success: cocos-analytics loaded
+2018-03-18T18:15:07.265Z - success: console loaded
+2018-03-18T18:15:07.270Z - success: hierarchy loaded
+2018-03-18T18:15:07.277Z - success: inspector loaded
+2018-03-18T18:15:07.280Z - success: keystore loaded
+2018-03-18T18:15:07.284Z - success: node-library loaded
+2018-03-18T18:15:07.286Z - success: package-asset loaded
+2018-03-18T18:15:07.293Z - success: preferences loaded
+2018-03-18T18:15:07.297Z - success: project-exporter loaded
+2018-03-18T18:15:07.326Z - success: project-importer loaded
+2018-03-18T18:15:07.329Z - success: project-settings loaded
+2018-03-18T18:15:07.333Z - success: ui-kit loaded
+2018-03-18T18:15:07.343Z - success: ui-grid loaded
+2018-03-18T18:15:07.348Z - success: scene loaded
+2018-03-18T18:15:07.351Z - success: sprite-editor loaded
+2018-03-18T18:15:07.360Z - success: store loaded
+2018-03-18T18:15:07.366Z - success: timeline loaded
+2018-03-18T18:15:07.367Z - normal: Loading builtin packages
+2018-03-18T18:15:07.370Z - success: asset-db-debugger loaded
+2018-03-18T18:15:07.376Z - success: code-editor loaded
+2018-03-18T18:15:07.382Z - success: color-picker loaded
+2018-03-18T18:15:07.386Z - success: package-manager loaded
+2018-03-18T18:15:07.399Z - success: sdkbox loaded
+2018-03-18T18:15:07.407Z - success: tester loaded
+2018-03-18T18:15:07.412Z - success: ui-kit-preview-extra loaded
+2018-03-18T18:15:07.414Z - success: ui-kit-preview loaded
+2018-03-18T18:15:07.418Z - success: ui-tree loaded
+2018-03-18T18:15:10.201Z - normal: Initializing project D:\GameDevelopment\Snake
+2018-03-18T18:15:10.250Z - normal: Loading packages
+2018-03-18T18:15:10.263Z - normal: Watching packages
+2018-03-18T18:15:10.297Z - normal: Run Application
+2018-03-18T18:15:12.315Z - success: preview server running at http://localhost:7456
+2018-03-18T18:15:25.244Z - normal: 1.8.1
+2018-03-18T18:16:20.133Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1998
