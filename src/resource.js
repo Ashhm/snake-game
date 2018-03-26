@@ -4,4 +4,5 @@ const res = {
   SnakeBiscuit_png : "assets/snake_biscuit.png"
 };
 
+// need to be done
 const g_resources = Object.values(res);
